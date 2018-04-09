@@ -17,6 +17,7 @@
   "dependencies": {
     "babel-core": "^6.26.0",
     "react": "^0.14.0-beta3",
-    "react-dom": "^0.14.0-beta3"
+    "react-dom": "^0.14.0-beta3",
+    "snapkite-stream-client": "^1.0.3"
   }
 }
